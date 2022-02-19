@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valin0k&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=valin0k&theme=vue)
+
+https://github-readme-codewars-stats.herokuapp.com/api/?username=valin0k&badge&colormode=dark_mode
