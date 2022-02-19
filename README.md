@@ -1,6 +1,6 @@
 ### Hey there, i'm Pasha 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23939ABA&size=18&duration=3000&lines=React+%26+React+Native+engineer;With+5+years+of+experience;Check+out+my+repos+%26+codewars;Feel+free+to+message+me;Have+a+nice+day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23939ABA&size=18&duration=3000&lines=I'm+React+%26+React+Native+engineer;With+5+years+of+experience;Check+out+my+repos+%26+codewars;Feel+free+to+message+me;Have+a+nice+day)](https://git.io/typing-svg)
 
 <!--
 **valin0k/valin0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
