@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valin0k&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valin0k&theme=vue)
